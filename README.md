@@ -70,8 +70,11 @@ model_kwargs={"use_safetensors": True}
 
 <div align="center">
 
-✨ Desenvolvido por **Cristina Andrade** – 2025  
-Aplicação de Análise de Dados com NER
+✨ Desenvolvido por **Cristina Andrade** 
+
+Engenheira da Computação - CREA 2024107872
+
+Aplicação de Análise de Dados com NER 
 
 
 
